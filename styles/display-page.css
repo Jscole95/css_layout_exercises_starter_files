@@ -3,6 +3,9 @@
 	height: 500px;
 	border: 1px solid black;
 	font-size: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 90px;
 }
 
 .top {
